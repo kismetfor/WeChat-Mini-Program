@@ -1,0 +1,11 @@
+<view>view组件</view>
+<view hover-class="bold">hover-class="bold"按下去变粗</view>
+<view hover-start-time="1000" hover-class="bold">
+  hover-start-time="1000"按下后一秒出效果
+</view>
+
+<view hover-stay-time="1000" hover-class="bold">
+  hover-stay-time="1000"按下后变粗一秒
+</view>
+<image src="/images/demo01.jpg" mode="aspectFill" style="height: 195px; width: 200px;">  </image>
+<image src="/images/demo01.jpg" mode="aspectFit" style="width: 200px;height: 195px;border: 1px solid black;"></image>
